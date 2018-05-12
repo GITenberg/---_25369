@@ -1,0 +1,26 @@
+_repo: '---_25369'
+_version: 0.1.0
+alternative_title: Jin Shi Yuan
+contributor:
+  compiler:
+    agent_name: Jingtianzhuren
+    alias: 静恬主人
+    gutenberg_agent_id: '31377'
+    url: http://www.gutenberg.org/2009/agents/31377
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2008-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25369'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese fiction -- Qing dynasty, 1644-1912'
+title: 金石緣
+url: http://www.gutenberg.org/ebooks/25369
